@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("privet")	
+	var a ,b = 2,3
+	fmt.Println(a+b)
 }
+
